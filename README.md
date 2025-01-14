@@ -1,7 +1,7 @@
 #👩🏼‍💻 Rauane Aquino
 
-
 **`Desenvolvedora Frontend | ReactJS | Next.js`**
+
 Me chamo Rauane Aquino, tenho 26 anos e sou natural do Amazonas. Conclui o curso técnico em Informática pelo IFAM e possuo o certificação de 
 Programação Web Básica pela FPF Tech. Atualmente estou cursando a Formação em Frontend pelo Dev Club. Sou apaixonada por tecnologia e estou em constante evolução.
 
